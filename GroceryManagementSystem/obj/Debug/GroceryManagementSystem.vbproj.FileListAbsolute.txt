@@ -1,0 +1,88 @@
+D:\Projects\VB\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\bin\Debug\GroceryManagementSystem.exe.config
+D:\Projects\VB\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\bin\Debug\GroceryManagementSystem.exe
+D:\Projects\VB\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\bin\Debug\GroceryManagementSystem.pdb
+D:\Projects\VB\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\bin\Debug\GroceryManagementSystem.xml
+D:\Projects\VB\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.Form1.resources
+D:\Projects\VB\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.Loginform.resources
+D:\Projects\VB\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.Resources.resources
+D:\Projects\VB\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.vbproj.GenerateResource.Cache
+D:\Projects\VB\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.exe
+D:\Projects\VB\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.xml
+D:\Projects\VB\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.pdb
+D:\Projects\VB\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\bin\Debug\MySql.Data.dll
+D:\Projects\VB\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.ManagerHome.resources
+D:\Projects\VB\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.vbprojResolveAssemblyReference.cache
+D:\Projects\VB\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.ManagerContacts.resources
+D:\Projects\VB\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.RegisterWorker.resources
+D:\Projects\VB\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.AddSupplier.resources
+D:\Projects\VB\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.DeleteSupplier.resources
+D:\Projects\VB\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.InvetoryView.resources
+D:\Projects\VB\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.InvetoryAdd.resources
+D:\Projects\VB\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.Payments.resources
+D:\Projects\VB\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.Billing.resources
+D:\Projects\VB\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.Assistant.resources
+D:\Projects\VB\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.Logoutform.resources
+D:\Projects\VB\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.AdminHome.resources
+D:\Projects\VB\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.ManagerRegistration.resources
+D:\Projects\VB\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.CompanyDetails.resources
+D:\Projects\VB\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.Printing.resources
+D:\VB\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\bin\Debug\GroceryManagementSystem.exe.config
+D:\VB\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.exe
+D:\VB\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.xml
+D:\VB\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.pdb
+I:\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\bin\Debug\GroceryManagementSystem.exe.config
+I:\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.exe
+I:\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.xml
+I:\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.pdb
+I:\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\bin\Debug\GroceryManagementSystem.exe
+I:\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\bin\Debug\GroceryManagementSystem.pdb
+I:\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\bin\Debug\GroceryManagementSystem.xml
+I:\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\bin\Debug\MySql.Data.dll
+I:\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.vbprojResolveAssemblyReference.cache
+I:\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.AddSupplier.resources
+I:\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.AdminHome.resources
+I:\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.Assistant.resources
+I:\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.Billing.resources
+I:\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.CompanyDetails.resources
+I:\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.DeleteSupplier.resources
+I:\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.Form1.resources
+I:\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.InvetoryAdd.resources
+I:\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.InvetoryView.resources
+I:\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.Loginform.resources
+I:\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.Logoutform.resources
+I:\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.ManagerContacts.resources
+I:\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.ManagerHome.resources
+I:\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.ManagerRegistration.resources
+I:\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.Resources.resources
+I:\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.Payments.resources
+I:\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.Printing.resources
+I:\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.RegisterWorker.resources
+I:\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\Clareen Vans\Desktop\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\bin\Debug\GroceryManagementSystem.exe.config
+C:\Users\Clareen Vans\Desktop\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.exe
+C:\Users\Clareen Vans\Desktop\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.xml
+C:\Users\Clareen Vans\Desktop\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.pdb
+C:\Users\Clareen Vans\Desktop\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\bin\Debug\GroceryManagementSystem.exe
+C:\Users\Clareen Vans\Desktop\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\bin\Debug\GroceryManagementSystem.pdb
+C:\Users\Clareen Vans\Desktop\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\bin\Debug\GroceryManagementSystem.xml
+C:\Users\Clareen Vans\Desktop\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\bin\Debug\MySql.Data.dll
+C:\Users\Clareen Vans\Desktop\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Clareen Vans\Desktop\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.AddSupplier.resources
+C:\Users\Clareen Vans\Desktop\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.AdminHome.resources
+C:\Users\Clareen Vans\Desktop\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.Assistant.resources
+C:\Users\Clareen Vans\Desktop\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.Billing.resources
+C:\Users\Clareen Vans\Desktop\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.CompanyDetails.resources
+C:\Users\Clareen Vans\Desktop\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.DeleteSupplier.resources
+C:\Users\Clareen Vans\Desktop\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.Form1.resources
+C:\Users\Clareen Vans\Desktop\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.InvetoryAdd.resources
+C:\Users\Clareen Vans\Desktop\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.InvetoryView.resources
+C:\Users\Clareen Vans\Desktop\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.Loginform.resources
+C:\Users\Clareen Vans\Desktop\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.Logoutform.resources
+C:\Users\Clareen Vans\Desktop\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.ManagerContacts.resources
+C:\Users\Clareen Vans\Desktop\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.ManagerHome.resources
+C:\Users\Clareen Vans\Desktop\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.ManagerRegistration.resources
+C:\Users\Clareen Vans\Desktop\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.Resources.resources
+C:\Users\Clareen Vans\Desktop\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.Payments.resources
+C:\Users\Clareen Vans\Desktop\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.Printing.resources
+C:\Users\Clareen Vans\Desktop\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.RegisterWorker.resources
+C:\Users\Clareen Vans\Desktop\visual 12 projects\GroceryManagementSystem\GroceryManagementSystem\obj\Debug\GroceryManagementSystem.vbproj.GenerateResource.Cache
